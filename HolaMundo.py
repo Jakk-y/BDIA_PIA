@@ -1,2 +1,2 @@
-#Tarea 1 Juanma Corteguera Pendas
-print("Hola mundo")
+#Tarea 1 Juan Manuel Corteguera Pendas
+print("Hola mundo.")
